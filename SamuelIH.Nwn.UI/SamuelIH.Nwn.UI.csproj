@@ -4,6 +4,11 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageProjectUrl>https://github.com/Samuel-IH/SamuelIH.Nwn.UI</PackageProjectUrl>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/Samuel-IH/SamuelIH.Nwn.UI/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Samuel-IH/SamuelIH.Nwn.UI</RepositoryUrl>
+        <Description>Ui lib built on top of my component system</Description>
     </PropertyGroup>
 
     <ItemGroup>
